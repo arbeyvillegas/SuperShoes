@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperShoes", "SuperShoes\SuperShoes.csproj", "{7F48BD78-9CD9-4377-9F68-D4F8EF36E01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperShoes.Services", "SuperShoes.Services\SuperShoes.Services.csproj", "{1397BF36-90B4-4643-A3E0-45EA855F30CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperShoes.Domain", "SuperShoes.Domain\SuperShoes.Domain.csproj", "{D978EB71-935C-46A6-ACD4-E4912A9445E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperShoes.Model", "SuperShoes.Model\SuperShoes.Model.csproj", "{82C9ED74-B067-4630-BBB0-9A8BB042470E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arbeyvillegas.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SuperShoes.Domain\\SuperShoes.Domain.csproj
+		SccProjectName1 = SuperShoes.Domain
+		SccLocalPath1 = SuperShoes.Domain
+		SccProjectUniqueName2 = SuperShoes.Model\\SuperShoes.Model.csproj
+		SccProjectName2 = SuperShoes.Model
+		SccLocalPath2 = SuperShoes.Model
+		SccProjectUniqueName3 = SuperShoes.Services\\SuperShoes.Services.csproj
+		SccProjectName3 = SuperShoes.Services
+		SccLocalPath3 = SuperShoes.Services
+		SccProjectUniqueName4 = SuperShoes\\SuperShoes.csproj
+		SccProjectName4 = SuperShoes
+		SccLocalPath4 = SuperShoes
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F48BD78-9CD9-4377-9F68-D4F8EF36E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F48BD78-9CD9-4377-9F68-D4F8EF36E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F48BD78-9CD9-4377-9F68-D4F8EF36E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F48BD78-9CD9-4377-9F68-D4F8EF36E01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1397BF36-90B4-4643-A3E0-45EA855F30CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1397BF36-90B4-4643-A3E0-45EA855F30CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1397BF36-90B4-4643-A3E0-45EA855F30CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1397BF36-90B4-4643-A3E0-45EA855F30CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D978EB71-935C-46A6-ACD4-E4912A9445E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D978EB71-935C-46A6-ACD4-E4912A9445E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D978EB71-935C-46A6-ACD4-E4912A9445E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D978EB71-935C-46A6-ACD4-E4912A9445E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C9ED74-B067-4630-BBB0-9A8BB042470E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C9ED74-B067-4630-BBB0-9A8BB042470E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C9ED74-B067-4630-BBB0-9A8BB042470E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C9ED74-B067-4630-BBB0-9A8BB042470E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
